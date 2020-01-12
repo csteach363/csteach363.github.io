@@ -1,0 +1,22 @@
+name: "csteach363"
+subname: "algorithms"
+description: "a collection of resources for COMP 363...."
+
+url: "http://localhost:4000"
+
+# paginate: 10
+
+markdown: kramdown
+permalink: "/:categories/:title"
+highlighter: rouge
+
+excerpt_separator: <!--more-->
+
+collections:
+  library:
+    output: true
+  indices:
+    output: true
+
+plugins:
+  - jekyll-sitemap
