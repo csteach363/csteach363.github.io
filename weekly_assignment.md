@@ -20,6 +20,21 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
+##### Week 2 - 23rd January 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * [Algorithms & Data Structures - Basics](/assets/docs/extras/notes-alg-ds-basic.pdf)
+  * [Algorithms & Data Structures - Intro](/assets/docs/extras/notes-alg-ds-intro.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code example,
+  * [GitHub - Source](https://github.com/csteach363/source)
+* Please continue to plan and organise your Project, and add any further details to the Trello group
+  * [Week 1 - Project Details](https://trello.com/b/wRt9MNKN/week-1-project-details)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 1 - 14th January 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes
