@@ -22,6 +22,26 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
+#### Week 3 - 30th January 2020
+
+* [Big O Notation - YouTube](https://www.youtube.com/watch?v=v4cd1O4zkGw)
+* [Iterators vs Iterables - YouTube](https://www.youtube.com/watch?v=vtmiYo_600M)
+* [Linked Lists - Java - YouTube](https://www.youtube.com/watch?v=njTh_OwMljA)
+* [Linked Lists - Python - YouTube](https://www.youtube.com/watch?v=6r62JV_V9SU)
+* [Lists vs Arrays, NumPy - Python - YouTube](https://www.youtube.com/watch?v=BrZ5OoYzfN8)
+* [MDN - JavaScript - Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* [MDN - JavaScript - Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+* [MDN - JavaScript - Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+* [MDN - JavaScript - Prototype](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+* [MDN - JavaScript - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+* [MDN - JavaScript - Symbol](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
+* [MDN - JavaScript - Symbol.iterator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator)
+* [Process Manager - YouTube](https://www.youtube.com/watch?v=bS3QuOQgUu8)
+* [Process Manager - Algorithms and Management - YouTube](https://www.youtube.com/watch?v=7FRW4iGjLrc)
+* [Process Manager - Scheduler - YouTube](https://www.youtube.com/watch?v=bS3QuOQgUu8)
+* [Sort an Array with Comparator - Java - YouTube](https://www.youtube.com/watch?v=SzzSwvQfKyk)
+  [Text based game Vexed with linked list - YouTube](https://www.youtube.com/watch?v=l96Txo9XDkY)
+
 #### Week 2 - 23rd January 2020
 
 * [Algorithms - YouTube](https://youtu.be/Q9HjeFD62Uk)

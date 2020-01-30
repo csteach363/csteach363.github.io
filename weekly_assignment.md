@@ -20,6 +20,29 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
+##### Week 3 - 30th January 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Algorithms and Data Structures
+    * [Big O - Intro](/assets/docs/extras/notes-alg-ds-big-o-intro.pdf)
+    * [Array and Linked Lists - Intro](/assets/docs/extras/notes-alg-ds-arrays-linkedlists-intro.pdf)
+  * extras - JavaScript
+    * [JS Intro](/assets/docs/extras/javascript/js-intro.pdf)
+    * [JS Core](/assets/docs/extras/javascript/js-core.pdf)
+    * [JS Logic](/assets/docs/extras/javascript/js-logic.pdf)
+  * extras - Python
+    * [Install and Setup - OS X](/assets/docs/extras/python/python-install-setup-osx.pdf)
+    * [Install and Setup - Windows](/assets/docs/extras/python/python-install-setup-windows.pdf)
+  * extras - various
+    * [System and Memory Structure](/assets/docs/extras/various/notes-alg-ds-sys-mem-structure.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code examples,
+  * [GitHub - Source](https://github.com/csteach460/source)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 2 - 23rd January 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
