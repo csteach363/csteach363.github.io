@@ -20,6 +20,32 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
+##### Week 4 - 6th February 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * [course](/assets/docs/2020/comp363-week4.pdf)
+  * extras - JavaScript
+    * [JS Collections - Array](/assets/docs/extras/javascript/js-collections-array.pdf)
+    * [JS Iterator and Iterable](/assets/docs/extras/javascript/js-iterator-iterable.pdf)
+    * [JS Prototype](/assets/docs/extras/javascript/js-prototype.pdf)
+    * [JS Proxy](/assets/docs/extras/javascript/js-proxy.pdf)
+  * extras - Patterns
+    * [Observer](/assets/docs/extras/patterns/observer-pattern.pdf)
+    * [Pub/Sub](/assets/docs/extras/patterns/pubsub-pattern.pdf)
+  * extras - various
+    * [System and Memory Structure](/assets/docs/extras/various/notes-alg-ds-sys-mem-structure.pdf)
+* * Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code examples,
+  * [GitHub - Source](https://github.com/csteach363/source)
+* Please prepare your first presentation and demo for the start of next week's class, Tuesday 11th and Thursday 13th February 2020 @ 10am.
+  * further details may be found on the following pages,
+    * [Course Website - Coursework](http://csteach363.github.io/coursework/#assessment2)
+    * [Course Notes - Week 1 - Pages 10 & 11](https://csteach363.github.io/assets/docs/2020/comp363-week1.pdf)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 3 - 30th January 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
