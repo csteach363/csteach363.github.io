@@ -20,6 +20,47 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
+#### Week 5 - 13th February 2020
+
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Cryptocurrency](https://forms.gle/HwVXZCgy7rWBxPyZA)
+  * [Group 2 - Ramblerfy](https://forms.gle/vZfc7QAbSPq87MMQ9)
+  * [Group 3 - Synonym Checker](https://forms.gle/93fq4asvcnee2AyV8)
+  * [Group 4 - Studdy Buddy](https://forms.gle/qbo5fH7d94D2opti9)
+  * [Group 5 - Fractal Machine](https://forms.gle/1jjmr8raKj1DSJVL7)
+  * [Group 6 - !Geometry Dash](https://forms.gle/SxizvTv71FFCpPHR7)
+  * [Group 7 - Class](https://forms.gle/GKcDzNyWMA2RVCyJ6)
+ 
+  <!-- * [Group 8 - ](https://forms.gle/iBCnfj43Y4sDV2x36)
+  * [Group 9 - ](https://forms.gle/crt1KvMcgCgUekRm8)
+  * [Group 10 - ](https://forms.gle/txu1BcpdjzDKTuFN8)
+  * [Group 11 - ](https://forms.gle/becRp1mY5xjE9yCr6)
+  * [Group 12 - ](https://forms.gle/ZDmkK4YEVVDDW9oJ6)
+  * [Group 13 - ](https://forms.gle/P1Z96jygWQFRVXGw9)-->
+  
+* Complete these peer review forms by **Thursday 20th February 2020** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 5 - Presentation Files](https://trello.com/b/PG886ccV/week-5-presentation-files)
+  * Please add these files as soon as possible, and by **Thursday 20th February 2020** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 5 - Project Contributions](https://trello.com/b/0LZ8bP5G/week-5-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Thursday 20th February 2020** at the latest
+* Please contribute to this week’s class discussion on Slack, *#discussion-week5*, for the following project, **Mark Twain Project Online**
+  * how does it present its textual documents?
+  * which site features do you like and dislike? why?
+  * how do they use filters, sort, and search to help present their project material?
+  * how do they combine their material within the structure of the project? i.e. textual documents (transcriptions) and the accompanying images
+  * add any other thoughts or comments on this project…
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 4 - 6th February 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
