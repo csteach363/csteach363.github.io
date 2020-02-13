@@ -32,8 +32,8 @@ Course assignments will be updated during the semester.
   * [Group 7 - Class](https://forms.gle/GKcDzNyWMA2RVCyJ6)
   * [Group 8 - Free Blackjack](https://forms.gle/iBCnfj43Y4sDV2x36)
   * [Group 9 - Runtime Terrors](https://forms.gle/crt1KvMcgCgUekRm8)
-  * [Group 10 - Deepest Depths](https://forms.gle/txu1BcpdjzDKTuFN8)
-  * [Group 11 - Open Medical Records](https://forms.gle/becRp1mY5xjE9yCr6)
+  * [Group 10 - Open Medical Records](https://forms.gle/txu1BcpdjzDKTuFN8)
+  * [Group 11 - Deepest Depths](https://forms.gle/becRp1mY5xjE9yCr6)
   * [Group 12 - Fitness](https://forms.gle/ZDmkK4YEVVDDW9oJ6)
   * [Group 13 - Semantic Analysis of Public Records](https://forms.gle/P1Z96jygWQFRVXGw9)
 * Complete these peer review forms by **Thursday 20th February 2020** at the latest
