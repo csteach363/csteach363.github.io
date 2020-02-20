@@ -20,6 +20,22 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
+##### Week 6 - 20th February 2020
+  * [course](/assets/docs/2020/comp363-week6.pdf)
+  * extras - Algorithms and Data Structures
+    * [Algorithms & Data Structures - Recursion](/assets/docs/extras/notes-alg-ds-recursion.pdf)
+  * extras - JavaScript
+    * [JS Collections - Stack](/assets/docs/extras/javascript/js-collections-stack.pdf)
+    * [JS Getters and Setters](/assets/docs/extras/javascript/js-getters-setters.pdf)
+    * [JS Prototype](/assets/docs/extras/javascript/js-prototype.pdf)
+    * [JS Proxy](/assets/docs/extras/javascript/js-proxy.pdf)
+  * extras - Node.js
+    * [Node - Outline](/assets/docs/extras/node/nodejs-outline.pdf)
+    * [Node - Express Outline](/assets/docs/extras/node/nodejs-express-outline.pdf)
+    * [Node - Express Starter](/assets/docs/extras/node/nodejs-express-starter.pdf)
+    * [Node - Mongo Outline](/assets/docs/extras/node/nodejs-outline.pdf)
+    * [Node - Update](/assets/docs/extras/node/nodejs-update.pdf)
+
 ##### Week 5 - 13th February 2020
   * N/A - Presentations
 
@@ -28,8 +44,6 @@ Course notes will be updated during the semester.
   * extras - JavaScript
     * [JS Collections - Array](/assets/docs/extras/javascript/js-collections-array.pdf)
     * [JS Iterator and Iterable](/assets/docs/extras/javascript/js-iterator-iterable.pdf)
-    * [JS Prototype](/assets/docs/extras/javascript/js-prototype.pdf)
-    * [JS Proxy](/assets/docs/extras/javascript/js-proxy.pdf)
   * extras - Patterns
     * [Observer](/assets/docs/extras/patterns/observer-pattern.pdf)
     * [Pub/Sub](/assets/docs/extras/patterns/pubsub-pattern.pdf)

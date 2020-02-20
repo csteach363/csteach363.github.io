@@ -22,6 +22,23 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
+#### Week 6 - 20th February 2020
+
+* [!!Con 2019- Tail Call Optimization: The Musical!! - YouTube](https://youtu.be/-PX0BV9hGZY)
+* [Algorithms - YouTube](https://www.youtube.com/watch?v=Q9HjeFD62Uk)
+* [Divide and Conquer - YouTube](https://www.youtube.com/watch?v=11V7Ik0IBHU)
+* [MDN - Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+* [MDN - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+* [Memoisation - YouTube](https://www.youtube.com/watch?v=P8Xa2BitN3I&t=18s)
+* [Memory Manager - YouTube](https://youtu.be/qdkxXygc3rE)
+* [Prototypes in JavaScript - YouTube](https://www.youtube.com/watch?v=riDVvXZ_Kb4)
+* [Proxy in JavaScript - YouTube](https://www.youtube.com/watch?v=KJ3uYyUp-yo)
+* [Recursion & Fibonacci - YouTube](https://www.youtube.com/watch?v=KEEKn7Me-ms)
+* [Recursion and Fun - JavaScript - YouTube](https://youtu.be/k7-N8R0-KY4)
+* [Recursion and the Call Stack - Java - YouTube](https://youtu.be/jRcll9qY6b0)
+* [Stacks - YouTube](https://youtu.be/NKmasqr_Xkw)
+
 #### Week 5 - 13th February 2020
 
 * N/A - Presentations
@@ -36,7 +53,6 @@ Course bibliography will be updated during the semester.
 * [MDN - JavaScript - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
 * [Memory Manager - YouTube](https://youtu.be/qdkxXygc3rE)
 * [Recursion - YouTube](https://www.youtube.com/watch?v=KEEKn7Me-ms)
-* [Recursion and Fibonacci - YouTube](https://www.youtube.com/watch?v=KEEKn7Me-ms)
 * [Recursion and Fun - JavaScript - YouTube](https://youtu.be/k7-N8R0-KY4)
 * [Recursion and the Call Stack - Java - YouTube](https://youtu.be/jRcll9qY6b0)
 * [Stacks - Python - YouTube](https://youtu.be/NKmasqr_Xkw)
