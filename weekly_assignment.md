@@ -46,10 +46,10 @@ Course assignments will be updated during the semester.
     * which data structure/s would be best suited for your chosen data? why?
     * how would you search and sort this data?
     * are there patterns to the data to help define chosen algorithm/s?
-* Please prepare for an in-class quiz, Thursday 27th February 2020
+<!-- * Please prepare for an in-class quiz, Thursday 27th February 2020
   * material will include all class notes up to and including Week 6
   * quiz will last approximately 30 minutes
-  * you will need an internet connected device to complete this quiz
+  * you will need an internet connected device to complete this quiz -->
 
 Any questions, please let me know.
 
