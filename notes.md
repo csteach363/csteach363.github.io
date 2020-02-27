@@ -20,6 +20,20 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
+#### Week 7 - 27th February 2020
+  * [course](/assets/docs/2020/comp363-week7.pdf)
+  * extras - Algorithms and Data Structures
+    * [Algorithms & Data Structures - Binary Search](/assets/docs/extras/notes-alg-ds-binary-search.pdf)
+    * [Algorithms & Data Structures - Binary Search Trees](/assets/docs/extras/notes-alg-ds-binary-search-tree.pdf)
+  * extras - Datastores
+    * [MongoDB & Native Driver](/assets/docs/extras/datastores/mongodb/data-stores-apis.pdf)
+  * extras - JavaScript
+    * [JS Generators & Promises](/assets/docs/extras/javascript/js-generators-promises.pdf)
+  * extras - Node.js
+    * [Node - Todo API app](/assets/docs/extras/node/node-api-todos/node-todos-api.pdf)
+    * [Node - Testing Todos API](/assets/docs/extras/node/node-api-todos/testing-todos-api.pdf)
+    * [Node - Heroku, MongoDB, & Postman](/assets/docs/extras/node/node-api-todos/heroku-mongo-postman.pdf)
+
 ##### Week 6 - 20th February 2020
   * [course](/assets/docs/2020/comp363-week6.pdf)
   * extras - Algorithms and Data Structures

@@ -76,9 +76,12 @@ Course links will be updated during the semester.
 * [Recursion and Fun - JavaScript - YouTube](https://youtu.be/k7-N8R0-KY4)
 * [Recursion and the Call Stack - Java - YouTube](https://youtu.be/jRcll9qY6b0)
 * [Sort an Array with Comparator - Java - YouTube](https://www.youtube.com/watch?v=SzzSwvQfKyk)
+* [So how does the browser actually render a website - YouTube](https://www.youtube.com/watch?v=SmE4OwHztCc)
 * [Stacks - Python - YouTube](https://youtu.be/NKmasqr_Xkw)
 * [Story of Maths - YouTube](https://www.youtube.com/watch?v=pb0MSMGSIeY)
+* [Symbol Table API - YouTube](https://www.youtube.com/watch?v=ZmBIA0E7t6s&list=PL1l6HESgVLWdRm7qHz6gWOUhdZrtSAxOB&index=15&t=0s)
 * [Text based game Vexed with linked list - YouTube](https://www.youtube.com/watch?v=l96Txo9XDkY)
+* [Trees - Java - YouTube](https://www.youtube.com/watch?v=oSWTXtMglKE)
 * [What is Big O? - YouTube](https://www.youtube.com/watch?v=MyeV2_tGqvw)
 
 ***

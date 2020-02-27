@@ -20,6 +20,35 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
+#### Week 7 - 27th February 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Algorithms and Data Structures
+    * [Algorithms & Data Structures - Binary Search](/assets/docs/extras/notes-alg-ds-binary-search.pdf)
+    * [Algorithms & Data Structures - Binary Search Trees](/assets/docs/extras/notes-alg-ds-binary-search-tree.pdf)
+  * extras - Datastores
+    * [MongoDB & Native Driver](/assets/docs/extras/datastores/mongodb/data-stores-apis.pdf)
+  * extras - JavaScript
+    * [JS Generators & Promises](/assets/docs/extras/javascript/js-generators-promises.pdf)
+  * extras - Node.js
+    * [Node - Todo API app](/assets/docs/extras/node/node-api-todos/node-todos-api.pdf)
+    * [Node - Testing Todos API](/assets/docs/extras/node/node-api-todos/testing-todos-api.pdf)
+    * [Node - Heroku, MongoDB, & Postman](/assets/docs/extras/node/node-api-todos/heroku-mongo-postman.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code examples,
+  * [GitHub - Source](https://github.com/csteach460/source)
+* Please continue development of your project application towards *Week 10 - DEV Week* demo and presentations
+
+Any questions, please let me know.
+
+Enjoy your week and Spring Break.
+
+<!-- * Please prepare for an in-class quiz, Thursday 27th February 2020
+  * material will include all class notes up to and including Week 6
+  * quiz will last approximately 30 minutes
+  * you will need an internet connected device to complete this quiz -->
+
+
 #### Week 6 - 20th February 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
@@ -50,11 +79,6 @@ Course assignments will be updated during the semester.
 Any questions, please let me know.
 
 Enjoy your week.
-
-<!-- * Please prepare for an in-class quiz, Thursday 27th February 2020
-  * material will include all class notes up to and including Week 6
-  * quiz will last approximately 30 minutes
-  * you will need an internet connected device to complete this quiz -->
 
 #### Week 5 - 13th February 2020
 
