@@ -36,7 +36,7 @@ Course assignments will be updated during the semester.
 * Please add updates on your group's project development to the course's Trello group,
   * [Week 9 - DEV Week prep](https://trello.com/b/5fmymgFu/week-9-dev-week-prep)
 
-**n.b.** I will post further details to the course's Slack group on the specifics on *online* presentations.
+**n.b.** I will post further details to the course's Slack group on the specifics of *online* presentations.
 
 Any questions, please let me know.
 
