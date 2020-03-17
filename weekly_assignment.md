@@ -20,6 +20,31 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
+##### Week 10 - Part 1 - 17th March 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Algorithms and Data Structures
+      * [Algorithms & Data Structures - Hash Tables - Part 1](/assets/docs/extras/notes-alg-ds-hash-tables-part1.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code examples,
+  * [GitHub - Source](https://github.com/csteach363/source/tree/master/week10)
+* Please continue to prepare your DEV Week group project and demonstration for **Tuesday 24th March 2020**
+
+<!-- * Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/gSsB8d6W/week-10-presentation-dev-files)
+  * Please add these files by **Monday 23rd March 2020** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 10 - Project Contributions](https://trello.com/b/tOmuUFfj/week-10-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Monday 23rd March 2020** at the latest -->
+
+**n.b.** I will post further details to the course's Slack group on the specifics of *online* presentations.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 9 - 12th March 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes

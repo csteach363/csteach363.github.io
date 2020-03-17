@@ -22,7 +22,14 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
-#### Week 9 - 12th March 2020
+##### Week 10 - Part 1 - 17th March 2020
+
+* [Hash tables - Java - YouTube](https://www.youtube.com/watch?v=shs0KM3wKv8)
+* [Hash tables - real-world usage - YouTube](https://www.youtube.com/watch?v=sTkWBIUH3Eo)
+* [TED - What is the Internet? - YouTube](https://www.youtube.com/watch?v=XE_FPEFpHt4)
+* [What is DNS? - YouTube](https://www.youtube.com/watch?v=HsQOWfc3Wic)
+
+##### Week 9 - 12th March 2020
 
 * [Hash tables - Java - YouTube](https://www.youtube.com/watch?v=shs0KM3wKv8)
 * [Hash tables - real-world usage - YouTube](https://www.youtube.com/watch?v=sTkWBIUH3Eo)
@@ -37,11 +44,11 @@ Course bibliography will be updated during the semester.
 * [Trees - Java - YouTube](https://www.youtube.com/watch?v=oSWTXtMglKE)
 * [Trees - Max height using recursion - YouTube](https://www.youtube.com/watch?v=YT1994beXn0)
 
-#### Week 8 - 5th March 2020
+##### Week 8 - 5th March 2020
 
 * N/A - Spring Break
 
-#### Week 7 - 27th February 2020
+##### Week 7 - 27th February 2020
 
 * [Algorithms - YouTube](https://www.youtube.com/watch?v=Q9HjeFD62Uk)
 * [Divide and Conquer - YouTube](https://www.youtube.com/watch?v=11V7Ik0IBHU)
@@ -54,7 +61,7 @@ Course bibliography will be updated during the semester.
 * [Symbol Table API - YouTube](https://www.youtube.com/watch?v=ZmBIA0E7t6s&list=PL1l6HESgVLWdRm7qHz6gWOUhdZrtSAxOB&index=15&t=0s)
 * [Trees - Java - YouTube](https://www.youtube.com/watch?v=oSWTXtMglKE)
 
-#### Week 6 - 20th February 2020
+##### Week 6 - 20th February 2020
 
 * [!!Con 2019- Tail Call Optimization: The Musical!! - YouTube](https://youtu.be/-PX0BV9hGZY)
 * [Algorithms - YouTube](https://www.youtube.com/watch?v=Q9HjeFD62Uk)
@@ -71,11 +78,11 @@ Course bibliography will be updated during the semester.
 * [Recursion and the Call Stack - Java - YouTube](https://youtu.be/jRcll9qY6b0)
 * [Stacks - YouTube](https://youtu.be/NKmasqr_Xkw)
 
-#### Week 5 - 13th February 2020
+##### Week 5 - 13th February 2020
 
 * N/A - Presentations
 
-#### Week 4 - 6th February 2020
+##### Week 4 - 6th February 2020
 
 * [!!Con 2019- Tail Call Optimization: The Musical!! - YouTube](https://youtu.be/-PX0BV9hGZY)
 * [Call Stack - YouTube](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
@@ -89,7 +96,7 @@ Course bibliography will be updated during the semester.
 * [Recursion and the Call Stack - Java - YouTube](https://youtu.be/jRcll9qY6b0)
 * [Stacks - Python - YouTube](https://youtu.be/NKmasqr_Xkw)
 
-#### Week 3 - 30th January 2020
+##### Week 3 - 30th January 2020
 
 * [Big O Notation - YouTube](https://www.youtube.com/watch?v=v4cd1O4zkGw)
 * [Iterators vs Iterables - YouTube](https://www.youtube.com/watch?v=vtmiYo_600M)
@@ -109,7 +116,7 @@ Course bibliography will be updated during the semester.
 * [Sort an Array with Comparator - Java - YouTube](https://www.youtube.com/watch?v=SzzSwvQfKyk)
   [Text based game Vexed with linked list - YouTube](https://www.youtube.com/watch?v=l96Txo9XDkY)
 
-#### Week 2 - 23rd January 2020
+##### Week 2 - 23rd January 2020
 
 * [Algorithms - YouTube](https://youtu.be/Q9HjeFD62Uk)
 * [Asymptotic computational complexity](https://en.wikipedia.org/wiki/Asymptotic_computational_complexity)
@@ -124,7 +131,7 @@ Course bibliography will be updated during the semester.
 * [Ted-Ed - A clever way to estimate enormous numbers - YouTube](https://www.youtube.com/watch?v=0YzvupOX8Is)
 * [What is Big O? - YouTube](https://www.youtube.com/watch?v=MyeV2_tGqvw)
 
-#### Week 1 - 16th January 2020
+##### Week 1 - 16th January 2020
 
 * [Babylonian Mathematics](https://en.wikipedia.org/wiki/Babylonian_mathematics)
 * [A clever way to estimate enormous numbers - YouTube](https://www.youtube.com/watch?v=0YzvupOX8Is)
