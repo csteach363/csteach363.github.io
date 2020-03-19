@@ -27,13 +27,11 @@ Course videos will be updated during the semester.
       * [part 3 - pseudocode](https://youtu.be/shs0KM3wKv8?t=228) - up to 4:42
       * [part 4 - performance](https://youtu.be/shs0KM3wKv8?t=282) - up to 6:08
     * [Hash tables - real-world usage](https://youtu.be/sTkWBIUH3Eo?t=144) - up to 4:21
-    * [TED - What is the Internet? - YouTube](https://youtu.be/XE_FPEFpHt4?t=308) - up to 11:15
-    * [What is DNS? - YouTube](https://youtu.be/HsQOWfc3Wic?t=7)
   * extras - various
     * [The Joy of Data - YouTube](https://youtu.be/l6oKriR-RjM?t=2059) - up to 41:40
     * [What's a cache for? - YouTube](https://youtu.be/6JpLD3PUAZk?t=74) - up to 4:08
-
-
+    * [What is DNS? - YouTube](https://youtu.be/HsQOWfc3Wic?t=7)
+    * [What is the Internet? - YouTube](https://youtu.be/XE_FPEFpHt4?t=308) - up to 11:15
 
 ##### Week 9 - 12th March 2020
 
