@@ -20,26 +20,25 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
-##### Week 10 - Part 1 - 17th March 2020
+##### Week 10 - 19th March 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - Algorithms and Data Structures
       * [Algorithms & Data Structures - Hash Tables - Part 1](/assets/docs/extras/notes-alg-ds-hash-tables-part1.pdf)
+      * [Algorithms & Data Structures - Hash Tables - Part 2](/assets/docs/extras/notes-alg-ds-hash-tables-part2.pdf)
+* Review this week's [videos and material](/videos)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's source code examples,
   * [GitHub - Source](https://github.com/csteach363/source/tree/master/week10)
 * Please continue to prepare your DEV Week group project and demonstration for **Tuesday 24th March 2020**
-
-<!-- * Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 10 - Presentation & Dev Files](https://trello.com/b/gSsB8d6W/week-10-presentation-dev-files)
-  * Please add these files by **Monday 23rd March 2020** at the latest
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/QtecOTr3/week-10-presentation-dev-files)
+  * Please add these files by **Tuesday 24th March 2020** at the latest
   * instructions are included as a list on the above board
 * Complete the following Trello board,
-  * [Week 10 - Project Contributions](https://trello.com/b/tOmuUFfj/week-10-project-contributions)
+  * [Week 10 - Project Contributions](https://trello.com/b/4IeljWWN/week-10-project-contributions)
   * this board is **important** - it will help to establish member contributions for the project
-  * please complete this requirement by **Monday 23rd March 2020** at the latest -->
-
-**n.b.** I will post further details to the course's Slack group on the specifics of *online* presentations.
+  * please complete this requirement by **Tuesday 24th March 2020** at the latest
 
 Any questions, please let me know.
 
@@ -60,8 +59,6 @@ Enjoy your week.
   * details are also available in the [Coursework](/coursework/#assessment3) section of this site
 * Please add updates on your group's project development to the course's Trello group,
   * [Week 9 - DEV Week prep](https://trello.com/b/5fmymgFu/week-9-dev-week-prep)
-
-**n.b.** I will post further details to the course's Slack group on the specifics of *online* presentations.
 
 Any questions, please let me know.
 

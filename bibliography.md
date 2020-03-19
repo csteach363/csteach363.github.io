@@ -22,11 +22,13 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
-##### Week 10 - Part 1 - 17th March 2020
+##### Week 10 - 19th March 2020
 
 * [Hash tables - Java - YouTube](https://www.youtube.com/watch?v=shs0KM3wKv8)
 * [Hash tables - real-world usage - YouTube](https://www.youtube.com/watch?v=sTkWBIUH3Eo)
+* [The Joy of Data - YouTube](https://www.youtube.com/watch?v=l6oKriR-RjM)
 * [TED - What is the Internet? - YouTube](https://www.youtube.com/watch?v=XE_FPEFpHt4)
+* [What's a cache for? - YouTube](https://www.youtube.com/watch?v=6JpLD3PUAZk)
 * [What is DNS? - YouTube](https://www.youtube.com/watch?v=HsQOWfc3Wic)
 
 ##### Week 9 - 12th March 2020
@@ -87,6 +89,7 @@ Course bibliography will be updated during the semester.
 * [!!Con 2019- Tail Call Optimization: The Musical!! - YouTube](https://youtu.be/-PX0BV9hGZY)
 * [Call Stack - YouTube](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
 * [Event Driven Architecture - YouTube](https://youtu.be/XohG9yQe3Ps)
+* [How Node.js works - YouTube](https://youtu.be/jOupHNvDIq8)
 * [MDN - JavaScript - Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 * [MDN - JavaScript - Prototype](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
 * [MDN - JavaScript - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
