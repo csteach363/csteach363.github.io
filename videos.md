@@ -63,6 +63,8 @@ Course videos will be updated during the semester.
 
 ##### Week 7 - 27th February 2020
 
+  * extras - divide and Conquer
+      * [part 3 - efficiency of recursion and divide and conquer](https://youtu.be/11V7Ik0IBHU?t=480) - up to 13:59
   * extras - recursion
     * [Recursion & Fibonacci](https://youtu.be/KEEKn7Me-ms)
     * [Recursion and Fun - JavaScript](https://youtu.be/k7-N8R0-KY4)
@@ -73,43 +75,42 @@ Course videos will be updated during the semester.
       * [part 2](https://youtu.be/SLauY6PpjW4?t=205) - up to 4:40
       * [part 3](https://youtu.be/SLauY6PpjW4?t=281) - up to 8:42
   * extras - trees
-    * [Symbol Table API](https://youtu.be/ZmBIA0E7t6s?t=30)
-      * intro - up to 5:40
+    * [Symbol Table API - intro](https://youtu.be/ZmBIA0E7t6s?t=30) - up to 5:40
     * trees - Java
       * [part 1 - binary search trees - intro](https://youtu.be/oSWTXtMglKE?t=22) - up to 1:36
       * [part 2 - binary search trees - insert](https://youtu.be/oSWTXtMglKE?t=97) - up to 3:00
   * extras - various
-    * [Algorithms - ](https://youtu.be/Q9HjeFD62Uk?t=880)
-      * sorting algorithms - up to 22:03
-    * [Divide and Conquer](https://youtu.be/11V7Ik0IBHU?t=480)
-      * efficiency of recursion and divide and conquer - up to 13:59
+    * [Algorithms - sorting algorithms](https://youtu.be/Q9HjeFD62Uk?t=880) - up to 22:03 
     * [Memoisation](https://youtu.be/P8Xa2BitN3I&t=18s)
-    * So how does the browser actually render a website
+    * so how does the browser actually render a website
       * [part 1 - how the browser renders a website](https://youtu.be/SmE4OwHztCc?t=115) - up to 7:40
       * [part 2 - a common working example](https://youtu.be/SmE4OwHztCc?t=660) - up to 17:17
 
 ##### Week 6 - 20th February 2020
 
-  * !!Con 2019- Tail Call Optimization: The Musical!!
-    * [part II](https://youtu.be/-PX0BV9hGZY?t=240) - up to 7:58
-    * [part III](https://youtu.be/-PX0BV9hGZY?t=480) - up to end
-  * Algorithms
-    * [Euclid and greatest common divisor](https://youtu.be/Q9HjeFD62Uk?t=321) - up to 8:27
-  * Divide and Conquer
-    * [part 1](https://youtu.be/11V7Ik0IBHU?t=65) - up to 4:08
-    * [part 2](https://youtu.be/11V7Ik0IBHU?t=279) - up to 7:53
-  * Memoisation
-    * [what is memoisation](https://youtu.be/P8Xa2BitN3I&t=18s?t=13) - up to 2:51
-    * [memoisation and complexity](https://youtu.be/P8Xa2BitN3I&t=18s?t=172) - up to 4:12
-  * [Memory Manager](https://youtu.be/qdkxXygc3rE)
-  * [Prototypes in JavaScript](https://youtu.be/riDVvXZ_Kb4)
-    * [part 1](https://youtu.be/riDVvXZ_Kb4?t=13) - up to 1:00
-    * [part 2](https://youtu.be/riDVvXZ_Kb4?t=60) - up to 6:41
-  * [Proxy in JavaScript](https://youtu.be/KJ3uYyUp-yo?t=3) - up to 3:28
-  * Recursion & Fibonacci
-    * [part 1](https://youtu.be/KEEKn7Me-ms?t=148) - up to 4:30
-    * [part 2](https://youtu.be/KEEKn7Me-ms?t=270) - up to end
-  * [Recursion and Fun - JavaScript](https://youtu.be/k7-N8R0-KY4?t=630) - up to 14:46
+  * extras - divide and Conquer
+    * [part 1 - intro](https://youtu.be/11V7Ik0IBHU?t=65) - up to 4:08
+    * [part 2 - recursion and divide and conquer](https://youtu.be/11V7Ik0IBHU?t=279) - up to 7:53
+  * extras - recursion
+    * recursion & Fibonacci
+      * [part 1](https://youtu.be/KEEKn7Me-ms?t=148) - up to 4:30
+      * [part 2](https://youtu.be/KEEKn7Me-ms?t=270) - up to end
+    * [Recursion and Fun - JavaScript](https://youtu.be/k7-N8R0-KY4?t=630) - up to 14:46
+  * extras - systems
+    * [Memory Manager](https://youtu.be/qdkxXygc3rE)
+  * extras - various
+    * !!Con 2019- Tail Call Optimization: The Musical!!
+      * [part II](https://youtu.be/-PX0BV9hGZY?t=240) - up to 7:58
+      * [part III](https://youtu.be/-PX0BV9hGZY?t=480) - up to end
+    * algorithms
+      * [Euclid and greatest common divisor](https://youtu.be/Q9HjeFD62Uk?t=321) - up to 8:27
+    * memoisation
+      * [what is memoisation](https://youtu.be/P8Xa2BitN3I&t=18s?t=13) - up to 2:51
+      * [memoisation and complexity](https://youtu.be/P8Xa2BitN3I&t=18s?t=172) - up to 4:12
+    * prototype in JavaScript
+      * [part 1](https://youtu.be/riDVvXZ_Kb4?t=13) - up to 1:00
+      * [part 2](https://youtu.be/riDVvXZ_Kb4?t=60) - up to 6:41
+    * [Proxy in JavaScript](https://youtu.be/KJ3uYyUp-yo?t=3) - up to 3:28
 
 ##### Week 5 - 13th February 2020
 
@@ -117,50 +118,64 @@ Course videos will be updated during the semester.
 
 ##### Week 4 - 6th February 2020
 
-  * !!Con 2019- Tail Call Optimization: The Musical!!
-    * [part I](https://youtu.be/-PX0BV9hGZY?t=19) - up to 3:55
-  * [Call Stack](https://youtu.be/Q2sFmqvpBe0?t=290) - up to end
-  * Event Driven Architecture
-    * [part 1](https://youtu.be/XohG9yQe3Ps?t=38) - up to 2:40
-    * [part 2](https://youtu.be/XohG9yQe3Ps?t=160) - up to 5:14
-  * How Node.js works
-    * [part 1](https://youtu.be/jOupHNvDIq8?t=3) - up to 1:32
-    * [part 2](https://youtu.be/jOupHNvDIq8?t=95) - up to 3:37
-  * [Memory Manager](https://youtu.be/qdkxXygc3rE?t=374) - up to 7:11
-  * [Recursion](https://youtu.be/KEEKn7Me-ms?t=6) - up to 2:27
-  * [Recursion and Fun - JavaScript](https://youtu.be/k7-N8R0-KY4?t=360) - up to 7:32
-  * Recursion and the Call Stack - Java
-    * [part 1](https://youtu.be/jRcll9qY6b0) - up to 4:50
-    * [part 2](https://youtu.be/jRcll9qY6b0?t=290) - up to end
-  * [Stacks - Python](https://youtu.be/NKmasqr_Xkw?t=40) - up to end
+  * extras - recursion
+    * [Recursion](https://youtu.be/KEEKn7Me-ms?t=6) - up to 2:27
+    * [Recursion and Fun - JavaScript](https://youtu.be/k7-N8R0-KY4?t=360) - up to 7:32
+  * extras - stacks
+    * [Call Stack](https://youtu.be/Q2sFmqvpBe0?t=290) - up to end
+    * recursion and the call stack - Java
+      * [part 1](https://youtu.be/jRcll9qY6b0) - up to 4:50
+      * [part 2](https://youtu.be/jRcll9qY6b0?t=290) - up to end
+    * [Stacks - Python](https://youtu.be/NKmasqr_Xkw?t=40) - up to end
+  * extras - systems
+    * event driven architecture
+      * [part 1](https://youtu.be/XohG9yQe3Ps?t=38) - up to 2:40
+      * [part 2](https://youtu.be/XohG9yQe3Ps?t=160) - up to 5:14
+    * [Memory Manager](https://youtu.be/qdkxXygc3rE?t=374) - up to 7:11
+  * extras - various
+    * !!Con 2019- Tail Call Optimization: The Musical!!
+      * [part I](https://youtu.be/-PX0BV9hGZY?t=19) - up to 3:55
+    * how Node.js works
+      * [part 1](https://youtu.be/jOupHNvDIq8?t=3) - up to 1:32
+      * [part 2](https://youtu.be/jOupHNvDIq8?t=95) - up to 3:37
 
 ##### Week 3 - 30th January 2020
 
-  * [Big O Notation](https://youtu.be/v4cd1O4zkGw?t=9) - up to end
-  * [Iterators vs Iterables](https://youtu.be/vtmiYo_600M?t=19) - up to 2:32
-  * [Linked Lists - Java](https://youtu.be/njTh_OwMljA)
-  * [Linked Lists - Python](https://youtu.be/6r62JV_V9SU)
-  * [Lists vs Arrays, NumPy - Python](https://youtu.be/BrZ5OoYzfN8?t=17) - up to end
-  * Operating systems
+  * extras - arrays
+    * [Sort an Array with Comparator - Java](https://youtu.be/SzzSwvQfKyk?t=7) - up to end
+  * extras - Big O notation
+    * [Big O Notation](https://youtu.be/v4cd1O4zkGw?t=9) - up to end
+  * extras - linked list
+    * [Linked Lists - Java](https://youtu.be/njTh_OwMljA)
+    * [Linked Lists - Python](https://youtu.be/6r62JV_V9SU)
+    * [Lists vs Arrays, NumPy - Python](https://youtu.be/BrZ5OoYzfN8?t=17) - up to end
+  * extras - systems
     * [Process Manager](https://youtu.be/bS3QuOQgUu8) - up to 1:41
     * [Process Manager - Algorithms and Management](https://youtu.be/7FRW4iGjLrc) - up to end
     * [Process Manager - Scheduler](https://youtu.be/bS3QuOQgUu8?t=102) - up to end
-  * [Sort an Array with Comparator - Java](https://youtu.be/SzzSwvQfKyk?t=7) - up to end
-    [Text based game Vexed with linked list](https://youtu.be/l96Txo9XDkY) - up to end
+  * extras - various
+    * Iterators vs Iterables - Python
+      * [part 1](https://youtu.be/vtmiYo_600M?t=19) - up to 2:32
+      * [part 2](https://youtu.be/vtmiYo_600M?t=152) - up to end
+    * [Text based game Vexed with linked list](https://youtu.be/l96Txo9XDkY) - up to end
 
 ##### Week 2 - 23rd January 2020
 
-  * Algorithms
-    * [efficiency and the traveling salesman problem](https://youtu.be/Q9HjeFD62Uk?t=1940) - up 42:35
-  * Linked Lists - Java
-    * [part 1](https://youtu.be/njTh_OwMljA?t=5) - up to 1:56
-    * [part 2](https://youtu.be/njTh_OwMljA?t=118) - up to end
-  * [Linked Lists - Python](https://youtu.be/6r62JV_V9SU?t=14) - up to 6:13
-  * [What is Big O?](https://youtu.be/MyeV2_tGqvw)
+  * extras - Big O notation
+    * [What is Big O?](https://youtu.be/MyeV2_tGqvw)
+  * extras - linked list
+    * Linked Lists - Java
+      * [part 1](https://youtu.be/njTh_OwMljA?t=5) - up to 1:56
+      * [part 2](https://youtu.be/njTh_OwMljA?t=118) - up to end
+    * [Linked Lists - Python](https://youtu.be/6r62JV_V9SU?t=14) - up to 6:13
+  * extras - various
+    * algorithms
+      * [efficiency and the traveling salesman problem](https://youtu.be/Q9HjeFD62Uk?t=1940) - up 42:35
 
 ##### Week 1 - 16th January 2020
 
-  * [A clever way to estimate enormous numbers](https://youtu.be/0YzvupOX8Is?t=110) - up to end
-  * [Logarithms Explained](https://youtu.be/zzu2POfYv0Y) - up to end
-  * [Story of Maths](https://youtu.be/pb0MSMGSIeY?t=1271) - up to 28:41 
+  * extras - various
+    * [A clever way to estimate enormous numbers](https://youtu.be/0YzvupOX8Is?t=110) - up to end
+    * [Logarithms Explained](https://youtu.be/zzu2POfYv0Y) - up to end
+    * [Story of Maths](https://youtu.be/pb0MSMGSIeY?t=1271) - up to 28:41 
  
