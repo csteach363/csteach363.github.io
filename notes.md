@@ -20,6 +20,9 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
+##### Week 11 - 24th March 2020
+  * N/A - Presentations
+
 ##### Week 10 - 17th & 19th March 2020
 
   * course

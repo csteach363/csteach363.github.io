@@ -20,6 +20,49 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
+#### Week 11 - 24th March 2020
+
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - !Geometry Dash](https://forms.gle/A15nhdBsEtNRYmuH6)
+  * [Group 2 - Class](https://forms.gle/kvomzKff7BxABGmD9)
+  * [Group 3 - Cryptocurrency](https://forms.gle/dn5XbBuoL9Nu5z5L7)
+  * [Group 4 - Deepest Depths](https://forms.gle/MwsMc5oMhtTaPP5u9)
+  * [Group 5 - Fitness](https://forms.gle/cyCQL8hFB2kgMtvh6)
+  * [Group 6 - Fractal Machine](https://forms.gle/J4X3txCGnpXnd4E18)
+  * [Group 7 - FreeJack - Blackjack](https://forms.gle/AbMKXR6KCEYdoMNi8)
+  * [Group 8 - OpenMed - Open Medical Records](https://forms.gle/vHP3tKWy1FxgKLFZ8)
+  * [Group 9 - Rambler Fy](https://forms.gle/W7bNRFYotFnMwSg49)
+  * [Group 10 - Runtime Terrors](https://forms.gle/Nh8BUZXD1Bj4zwyt9)
+  * [Group 11 - Semantic Analysis of Public Records](https://forms.gle/iV8ohhsmfADSa4Vq6)
+  * [Group 12 - Studdy Buddy](https://forms.gle/NrxRb7ZFe3vYEGGGA)
+  * [Group 13 - Synonym Checker](https://forms.gle/ng9Ns1tE6s3MxAdk6)
+* Complete these peer review forms by **Thursday 2nd April 2020** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week11-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please ensure you've added your presentation files, notes, and video (where appropriate) &c. to the following board on Trello,
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/QtecOTr3/week-10-presentation-dev-files)
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 10 - Project Contributions](https://trello.com/b/4IeljWWN/week-10-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please ensure you've now added your contribution details to this board
+* Please contribute to this week's class discussion on Slack, **#discussion-week11**, by adding the following information,
+  * choose two favourite data visualisations you've recently seen in an article, website, mobile application &c.
+    * why did you choose these visualisations?
+    * what did you like or dislike about each visualisation?
+    * outline the underlying data source
+      * e.g. a census or opinion poll, geographical data, and so on
+    * did the visualisation help improve understanding of the data?
+    * how would you structure this data in a sample application?
+      * e.g. data structure/s
+    * how would you query this data in a sample application?
+      * e.g. algorithms for search, sort, filter &c.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 10 - 19th March 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes

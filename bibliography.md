@@ -22,6 +22,10 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
+##### Week 11 - 24th March 2020
+
+* N/A - Presentations
+
 ##### Week 10 - 19th March 2020
 
 * [Hash tables - Java - YouTube](https://www.youtube.com/watch?v=shs0KM3wKv8)
