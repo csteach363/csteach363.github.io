@@ -22,6 +22,10 @@ Course assignments will be updated during the semester.
 
 #### Week 11 - 24th March 2020
 
+* Review this week's [notes and material](/notes), which includes the following extra notes
+  * extras - Data Stores
+    * [Firebase - Intro and Guide](/assets/docs/extras/datastores/firebase/ds-firebase-guide.pdf)
+    * [Firebase - Authentication](/assets/docs/extras/datastores/firebase/ds-firebase-auth-guide.pdf)
 * Complete the following peer review forms individually for the DEV Week projects and presentations
   * [Group 1 - !Geometry Dash](https://forms.gle/A15nhdBsEtNRYmuH6)
   * [Group 2 - Class](https://forms.gle/kvomzKff7BxABGmD9)
