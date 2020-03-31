@@ -20,6 +20,27 @@ This material will be updated on a weekly basis.
 
 Course videos will be updated during the semester.
 
+##### Week 12 - 2nd April 2020
+
+  * extras - graphs
+    * graphs - Java
+      * [part 1 - intro](https://youtu.be/zaBhtODEL0w?t=8) - up to 0:34
+      * [part 2 - depth-first search](https://youtu.be/zaBhtODEL0w?t=36) - up to 2:20
+      * [part 3 - breadth-first search](https://youtu.be/zaBhtODEL0w?t=140) - up to 2:58
+      * [part 4 - breadth-first search](https://youtu.be/zaBhtODEL0w?t=176) - up to 3:54
+      * [part 5 - breadth-first search](https://youtu.be/zaBhtODEL0w?t=402) - up to 9:04
+      * [part 6 - breadth-first search](https://youtu.be/zaBhtODEL0w?t=542) - up to 11:42
+  * extras - hash algorithms
+    * [Hash algorithms and security](https://youtu.be/b4b8ktEV4Bg?t=74) - up to 3:35
+    * [SHA: Secure Hashing Algorithm](https://youtu.be/DMtFhACPnTY?t=57) - up to 8:38
+  * extras - hash tables
+    * [Hash tables - custom hash function](https://youtu.be/sTkWBIUH3Eo?t=448) - up to 9:24
+
+##### Week 11 - 26th March 2020
+
+  * N/A - presentations
+  * **n.b.** class video link on Slack
+
 ##### Week 10 - 19th March 2020
   <!-- * course - []() -->
   * extras - hash tables

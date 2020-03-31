@@ -20,7 +20,23 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
-#### Week 11 - 24th March 2020
+##### Week 12 - 31st March 2020 - Part 1
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Algorithms and Data Structures
+    * [Algorithms & Data Structures - Hash Tables - Part 3](/assets/docs/extras/notes-alg-ds-hash-tables-part3.pdf)
+    * [Algorithms & Data Structures - Graphs - Part 1](/assets/docs/extras/notes-alg-ds-graphs-part1.pdf)
+* Review this week's [videos and material](/videos)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code examples,
+  * [GitHub - Source](https://github.com/csteach363/source/tree/master/week12)
+* Please continue to prepare your group project and demonstration
+
+Any questions, please let me know.
+
+Enjoy your week.
+
+#### Week 11 - 26th March 2020
 
 * Review this week's [notes and material](/notes), which includes the following extra notes
   * extras - Data Stores

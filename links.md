@@ -42,6 +42,7 @@ Course links will be updated during the semester.
 * [MDN - JavaScript - Symbol](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
 * [MDN - JavaScript - Symbol.iterator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator)
 * [Python.org - Python - Array](https://docs.python.org/3/library/array.html)
+* [Python.org - Python patterns - implementing graphs](https://www.python.org/doc/essays/graphs/)
 * [W3Schools - Python - Array](https://www.w3schools.com/python/python_arrays.asp)
 
 #### Libraries and tools
@@ -61,6 +62,7 @@ Course links will be updated during the semester.
 * [Call Stack - YouTube](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
 * [Divide and Conquer - YouTube](https://www.youtube.com/watch?v=11V7Ik0IBHU)
 * [Event Driven Architecture - YouTube](https://youtu.be/XohG9yQe3Ps)
+* [Graphs - Java - YouTube](https://www.youtube.com/watch?v=zaBhtODEL0w)
 * [Hash algorithms and security - YouTube](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
 * [Hash tables - Java - YouTube](https://www.youtube.com/watch?v=shs0KM3wKv8)
 * [Hash tables - real-world usage - YouTube](https://www.youtube.com/watch?v=sTkWBIUH3Eo)
