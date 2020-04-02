@@ -20,13 +20,17 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
-##### Week 12 - 31st March 2020
+##### Week 12 - 31st March & 2nd April 2020
 
   * course
     * [Tuesday - part 1](/assets/docs/2020/comp363-week12-part1.pdf)
+    * [Thursday - part 2](/assets/docs/2020/comp363-week12-part2.pdf)
   * extras - Algorithms and Data Structures
     * [Algorithms & Data Structures - Hash Tables - Part 3](/assets/docs/extras/notes-alg-ds-hash-tables-part3.pdf)
     * [Algorithms & Data Structures - Graphs - Part 1](/assets/docs/extras/notes-alg-ds-graphs-part1.pdf)
+    * [Algorithms & Data Structures - Graphs - Part 2](/assets/docs/extras/notes-alg-ds-graphs-part2.pdf)
+  * extras - Design
+    * [Design and Information Architecture](/assets/docs/extras/design/design-information-architecture.pdf)
 
 ##### Week 11 - 24th March 2020
 

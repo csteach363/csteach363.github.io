@@ -20,17 +20,31 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
-##### Week 12 - 31st March 2020 - Part 1
+##### Week 12 - 2nd April 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - Algorithms and Data Structures
     * [Algorithms & Data Structures - Hash Tables - Part 3](/assets/docs/extras/notes-alg-ds-hash-tables-part3.pdf)
     * [Algorithms & Data Structures - Graphs - Part 1](/assets/docs/extras/notes-alg-ds-graphs-part1.pdf)
+    * [Algorithms & Data Structures - Graphs - Part 2](/assets/docs/extras/notes-alg-ds-graphs-part2.pdf)
+  * extras - Design
+    * [Design and Information Architecture](/assets/docs/extras/design/design-information-architecture.pdf)
 * Review this week's [videos and material](/videos)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's source code examples,
   * [GitHub - Source](https://github.com/csteach363/source/tree/master/week12)
 * Please continue to prepare your group project and demonstration
+* Please contribute to this week's class discussion on Slack, **#discussion-week12**, by adding the following information,
+  * choose two recent examples of data structured using a **graph**
+    * why did you choose these examples?
+    * clearly define the original data source
+    * how has the data been structured using a graph?
+      * what are the benefits and issues of using a graph for this data?
+    * how might you use a hash table and hash function with this structured data?
+    * how would you query this graph data structure?
+      * i.e. which algorithm would you choose to search the current data in the graph?
+      * why did you choose this algorithm?
+      * what is the expected performance for this chosen algorithm?
 
 Any questions, please let me know.
 
