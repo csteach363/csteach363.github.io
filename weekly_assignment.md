@@ -20,7 +20,7 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
-##### Week 12 - 7th April 2020 - Part 1
+##### Week 13 - 7th April 2020 - Part 1
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - algorithms and data structures
