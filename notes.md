@@ -20,21 +20,33 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
+##### Week 13 - 7th April 2020 - Part 1
+
+  * course
+    * [Tuesday - part 1](/assets/docs/2020/comp363-week13-part1.pdf)
+  * extras - algorithms and data structures
+    * [Algorithms & Data Structures - Graphs - Dijkstra's Algorithm - Part 1](/assets/docs/extras/notes-alg-ds-graphs-dijkstra-part1.pdf)
+  * extras - design
+    * [Designing an app](/assets/docs/extras/design/design-our-app.pdf)
+    
+  <!-- * extras - systems management
+    * []() -->
+
 ##### Week 12 - 31st March & 2nd April 2020
 
   * course
     * [Tuesday - part 1](/assets/docs/2020/comp363-week12-part1.pdf)
     * [Thursday - part 2](/assets/docs/2020/comp363-week12-part2.pdf)
-  * extras - Algorithms and Data Structures
+  * extras - algorithms and data structures
     * [Algorithms & Data Structures - Hash Tables - Part 3](/assets/docs/extras/notes-alg-ds-hash-tables-part3.pdf)
     * [Algorithms & Data Structures - Graphs - Part 1](/assets/docs/extras/notes-alg-ds-graphs-part1.pdf)
     * [Algorithms & Data Structures - Graphs - Part 2](/assets/docs/extras/notes-alg-ds-graphs-part2.pdf)
-  * extras - Design
+  * extras - design
     * [Design and Information Architecture](/assets/docs/extras/design/design-information-architecture.pdf)
 
 ##### Week 11 - 24th March 2020
 
-  * extras - Data Stores
+  * extras - datastores
     * [Firebase - Intro and Guide](/assets/docs/extras/datastores/firebase/ds-firebase-guide.pdf)
     * [Firebase - Authentication](/assets/docs/extras/datastores/firebase/ds-firebase-auth-guide.pdf)
 
@@ -43,14 +55,14 @@ Course notes will be updated during the semester.
   * course
     * [Tuesday - part 1](/assets/docs/2020/comp363-week10-part1.pdf)
     * [Thursday - part 2](/assets/docs/2020/comp363-week10-part2.pdf)
-  * extras - Algorithms and Data Structures
+  * extras - algorithms and data structures
     * [Algorithms & Data Structures - Hash Tables - Part 1](/assets/docs/extras/notes-alg-ds-hash-tables-part1.pdf)
     * [Algorithms & Data Structures - Hash Tables - Part 2](/assets/docs/extras/notes-alg-ds-hash-tables-part2.pdf)
 
 ##### Week 9 - 12th March 2020
 
   * [course](/assets/docs/2020/comp363-week9.pdf)
-  * extras - Algorithms and Data Structures
+  * extras - algorithms and data structures
     * [Algorithms & Data Structures - Binary Search](/assets/docs/extras/notes-alg-ds-binary-search.pdf)
     * [Algorithms & Data Structures - Binary Search Trees](/assets/docs/extras/notes-alg-ds-binary-search-tree.pdf)
     * [Algorithms & Data Structures - Binary Search Trees Usage](/assets/docs/extras/notes-alg-ds-binary-search-tree-usage.pdf)
@@ -61,10 +73,10 @@ Course notes will be updated during the semester.
 
 ##### Week 7 - 27th February 2020
   * [course](/assets/docs/2020/comp363-week7.pdf)
-  * extras - Algorithms and Data Structures
+  * extras - algorithms and data structures
     * [Algorithms & Data Structures - Binary Search](/assets/docs/extras/notes-alg-ds-binary-search.pdf)
     * [Algorithms & Data Structures - Binary Search Trees](/assets/docs/extras/notes-alg-ds-binary-search-tree.pdf)
-  * extras - Datastores
+  * extras - datastores
     * [MongoDB & Native Driver](/assets/docs/extras/datastores/mongodb/data-stores-apis.pdf)
   * extras - JavaScript
     * [JS Generators & Promises](/assets/docs/extras/javascript/js-generators-promises.pdf)
@@ -75,7 +87,7 @@ Course notes will be updated during the semester.
 
 ##### Week 6 - 20th February 2020
   * [course](/assets/docs/2020/comp363-week6.pdf)
-  * extras - Algorithms and Data Structures
+  * extras - algorithms and data structures
     * [Algorithms & Data Structures - Recursion](/assets/docs/extras/notes-alg-ds-recursion.pdf)
   * extras - JavaScript
     * [JS Collections - Stack](/assets/docs/extras/javascript/js-collections-stack.pdf)
@@ -97,7 +109,7 @@ Course notes will be updated during the semester.
   * extras - JavaScript
     * [JS Collections - Array](/assets/docs/extras/javascript/js-collections-array.pdf)
     * [JS Iterator and Iterable](/assets/docs/extras/javascript/js-iterator-iterable.pdf)
-  * extras - Patterns
+  * extras - patterns
     * [Observer](/assets/docs/extras/patterns/observer-pattern.pdf)
     * [Pub/Sub](/assets/docs/extras/patterns/pubsub-pattern.pdf)
   * extras - various
@@ -105,7 +117,7 @@ Course notes will be updated during the semester.
 
 ##### Week 3 - 30th January 2020
   * [course](/assets/docs/2020/comp363-week3.pdf)
-  * extras - Algorithms and Data Structures
+  * extras - algorithms and data structures
     * [Big O - Intro](/assets/docs/extras/notes-alg-ds-big-o-intro.pdf)
     * [Array and Linked Lists - Intro](/assets/docs/extras/notes-alg-ds-arrays-linkedlists-intro.pdf)
   * extras - JavaScript
@@ -120,7 +132,7 @@ Course notes will be updated during the semester.
 
 ##### Week 2 - 23rd January 2020
   * [course](/assets/docs/2020/comp363-week2.pdf)
-  * extras
+  * extras - algorithms and data structures
     * [Algorithms & Data Structures - Basics](/assets/docs/extras/notes-alg-ds-basic.pdf)
     * [Algorithms & Data Structures - Intro](/assets/docs/extras/notes-alg-ds-intro.pdf)
 

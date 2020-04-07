@@ -20,6 +20,26 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
+##### Week 12 - 7th April 2020 - Part 1
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - algorithms and data structures
+    * [Algorithms & Data Structures - Graphs - Dijkstra's Algorithm - Part 1](/assets/docs/extras/notes-alg-ds-graphs-dijkstra-part1.pdf)
+  * extras - design
+    * [Designing an app](/assets/docs/extras/design/design-our-app.pdf)
+* Review this week's [videos and material](/videos)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code examples,
+  * [GitHub - Source](https://github.com/csteach363/source/tree/master/week13)
+* Please continue to prepare your group project and demonstration
+
+<!-- * Please contribute to this week's class discussion on Slack, **#discussion-week13**, by adding the following information,
+  *  -->
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 12 - 2nd April 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
@@ -68,7 +88,7 @@ Enjoy your week.
   * [Group 9 - Rambler Fy](https://forms.gle/W7bNRFYotFnMwSg49)
   * [Group 10 - Runtime Terrors](https://forms.gle/Nh8BUZXD1Bj4zwyt9)
   * [Group 11 - Semantic Analysis of Public Records](https://forms.gle/iV8ohhsmfADSa4Vq6)
-  * [Group 12 - Studdy Buddy](https://forms.gle/NrxRb7ZFe3vYEGGGA)
+  * [Group 12 - Study Buddy](https://forms.gle/NrxRb7ZFe3vYEGGGA)
   * [Group 13 - Synonym Checker](https://forms.gle/ng9Ns1tE6s3MxAdk6)
 * Complete these peer review forms by **Thursday 2nd April 2020** at the latest
   * please complete these forms individually, and **NOT** as a project group

@@ -26,9 +26,13 @@ Course links will be updated during the semester.
 
 #### Articles &c.
 
+* [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
 * [Asymptotic computational complexity](https://en.wikipedia.org/wiki/Asymptotic_computational_complexity)
 * [Babylonian Mathematics](https://en.wikipedia.org/wiki/Babylonian_mathematics)
+* [Bellman-Ford algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
 * [Declarative programming](https://en.wikipedia.org/wiki/Declarative_programming)
+* [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+* [Graph - abstract data type](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
 * [Imperative programming](https://en.wikipedia.org/wiki/Imperative_programming)
 * [SHA algorithms - Wikipedia](https://en.wikipedia.org/wiki/Secure_Hash_Algorithms)
 * [The Stable Marriage Problem](http://www.cs.columbia.edu/~evs/intro/stable/writeup.html)
@@ -57,9 +61,12 @@ Course links will be updated during the semester.
 
 * [!!Con 2019- Tail Call Optimization: The Musical!! - YouTube](https://youtu.be/-PX0BV9hGZY)
 * [Algorithms - YouTube](https://youtu.be/Q9HjeFD62Uk)
+* [A* (A star) search algorithm - YouTube](https://www.youtube.com/watch?v=ySN5Wnu88nE)
 * [A clever way to estimate enormous numbers - YouTube](https://www.youtube.com/watch?v=0YzvupOX8Is)
+* [Bellman-Ford algorithm - simple example - YouTube](https://www.youtube.com/watch?v=obWXjtg0L64)
 * [Big O Notation - YouTube](https://www.youtube.com/watch?v=v4cd1O4zkGw)
 * [Call Stack - YouTube](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
+* [Dijkstra's algorithm - YouTube](https://www.youtube.com/watch?v=GazC3A4OQTE)
 * [Divide and Conquer - YouTube](https://www.youtube.com/watch?v=11V7Ik0IBHU)
 * [Event Driven Architecture - YouTube](https://youtu.be/XohG9yQe3Ps)
 * [Graphs - Java - YouTube](https://www.youtube.com/watch?v=zaBhtODEL0w)
