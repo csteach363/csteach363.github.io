@@ -20,21 +20,18 @@ This material will be updated on a weekly basis.
 
 Course videos will be updated during the semester.
 
-##### Week 13 - 7th April 2020 - Part 1
+##### Week 13 - 7th & 9th April 2020
 
   * extras - graphs
+    * [A* (A star) search algorithm](https://www.youtube.com/watch?v=ySN5Wnu88nE)
+    * [Bellman-Ford algorithm - simple example](https://www.youtube.com/watch?v=obWXjtg0L64) - up to 4:51
     * Dijkstra's algorithm
       * [part 1 - intro](https://youtu.be/GazC3A4OQTE) - up to 1:01
       * [part 2 - example outline](https://youtu.be/GazC3A4OQTE?t=62) - up to 3:57
+      * [part 3 - example usage](https://youtu.be/GazC3A4OQTE?t=237) - up to 8:48
+      * [part 4 - improve usage](https://youtu.be/GazC3A4OQTE?t=527) - up to end
 
-
-    <!-- * [A* (A star) search algorithm](https://www.youtube.com/watch?v=ySN5Wnu88nE)
-    * [Bellman-Ford algorithm - simple example - YouTube](https://www.youtube.com/watch?v=obWXjtg0L64) - up to 4:51 -->
-
-      <!-- * [part 3 - example usage](https://youtu.be/GazC3A4OQTE?t=237) - up to 8:48
-          * [part 4 - improve usage](https://youtu.be/GazC3A4OQTE?t=527) - up to end -->
-
-##### Week 12 - 2nd April 2020
+##### Week 12 - 31st March & 2nd April 2020
 
   * extras - graphs
     * graphs - Java
@@ -55,8 +52,8 @@ Course videos will be updated during the semester.
   * N/A - presentations
   * **n.b.** class video link on Slack
 
-##### Week 10 - 19th March 2020
-  <!-- * course - []() -->
+##### Week 10 - 17th & 19th March 2020
+
   * extras - hash tables
     * hash tables - Java
       * [part 3 - pseudocode](https://youtu.be/shs0KM3wKv8?t=228) - up to 4:42

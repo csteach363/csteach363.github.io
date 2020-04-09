@@ -20,17 +20,22 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
-##### Week 13 - 7th April 2020 - Part 1
+##### Week 13 - 7th & 9th April 2020
 
   * course
     * [Tuesday - part 1](/assets/docs/2020/comp363-week13-part1.pdf)
+    * [Thursday - part 2](/assets/docs/2020/comp363-week13-part2.pdf)
   * extras - algorithms and data structures
     * [Algorithms & Data Structures - Graphs - Dijkstra's Algorithm - Part 1](/assets/docs/extras/notes-alg-ds-graphs-dijkstra-part1.pdf)
+    * [Algorithms & Data Structures - Graphs - Dijkstra's Algorithm - Part 2](/assets/docs/extras/notes-alg-ds-graphs-dijkstra-part2.pdf)
   * extras - design
     * [Designing an app](/assets/docs/extras/design/design-our-app.pdf)
-    
-  <!-- * extras - systems management
-    * []() -->
+  * extras - systems management
+    * [Build First](/assets/docs/extras/systems-mgmt/notes-build-first.pdf)
+    * [Systems - Environments and Distributions](/assets/docs/extras/systems-mgmt/notes-system-env-dist.pdf)
+  * extras - build tools
+    * [Grunt - Basics](/assets/docs/extras/systems-mgmt/notes-grunt-basics.pdf)
+    * [Grunt - Project Outline](/assets/docs/extras/systems-mgmt/grunt-project-outline.pdf)
 
 ##### Week 12 - 31st March & 2nd April 2020
 

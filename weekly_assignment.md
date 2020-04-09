@@ -20,21 +20,38 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
-##### Week 13 - 7th April 2020 - Part 1
+##### Week 13 - 9th April 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * extras - algorithms and data structures
     * [Algorithms & Data Structures - Graphs - Dijkstra's Algorithm - Part 1](/assets/docs/extras/notes-alg-ds-graphs-dijkstra-part1.pdf)
+    * [Algorithms & Data Structures - Graphs - Dijkstra's Algorithm - Part 2](/assets/docs/extras/notes-alg-ds-graphs-dijkstra-part2.pdf)
   * extras - design
     * [Designing an app](/assets/docs/extras/design/design-our-app.pdf)
+  * extras - systems management
+    * [Build First](/assets/docs/extras/systems-mgmt/notes-build-first.pdf)
+    * [Systems - Environments and Distributions](/assets/docs/extras/systems-mgmt/notes-system-env-dist.pdf)
+  * extras - build tools
+    * [Grunt - Basics](/assets/docs/extras/systems-mgmt/notes-grunt-basics.pdf)
+    * [Grunt - Project Outline](/assets/docs/extras/systems-mgmt/grunt-project-outline.pdf)
 * Review this week's [videos and material](/videos)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's source code examples,
   * [GitHub - Source](https://github.com/csteach363/source/tree/master/week13)
-* Please continue to prepare your group project and demonstration
-
-<!-- * Please contribute to this week's class discussion on Slack, **#discussion-week13**, by adding the following information,
-  *  -->
+* Please create a list on the [Week 13 - Final Plan](https://trello.com/b/gcl9rxEU/week-13-final-plan) Trello board for your group, and add the following details,
+  * please add a brief plan and outline for your group's remaining work
+  * this should include any work that is planned towards your group's final project presentation
+    * this may include development, research, design, testing, and so on
+  * please also include an outline of planned contribution from each group member
+* Please continue project design and development for the end of semester final presentation and report
+* Please contribute to this week's class discussion on Slack, **#discussion-week13**, by adding the following information,
+  * choose two examples of real-world uses and implementations of Dijkstra's algorithm
+    * why did you choose these examples?
+    * outline and define the algorithm's use for each example
+    * how has the algorithm been modified to fit a custom, real-world use?
+    * are there alternative algorithms suitable for each example?
+      * why did you choose these alternatives?
+      * what is the comparative performance for each algorithm?
 
 Any questions, please let me know.
 

@@ -22,19 +22,15 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
-##### Week 13 - 7th April 2020 - Part 1
+##### Week 13 - 7th & 9th April 2020
 
-* [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-* [Dijkstra's algorithm - YouTube](https://www.youtube.com/watch?v=GazC3A4OQTE)
-* [Graph - abstract data type](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
-
-<!-- * [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
+* [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
 * [A* (A star) search algorithm - YouTube](https://www.youtube.com/watch?v=ySN5Wnu88nE)
 * [Bellman-Ford algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
 * [Bellman-Ford algorithm - simple example - YouTube](https://www.youtube.com/watch?v=obWXjtg0L64)
 * [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 * [Dijkstra's algorithm - YouTube](https://www.youtube.com/watch?v=GazC3A4OQTE)
-* [Graph - abstract data type](https://en.wikipedia.org/wiki/Graph_(abstract_data_type)) -->
+* [Graph - abstract data type](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
 
 ##### Week 12 - 31st March & 2nd April 2020
 
