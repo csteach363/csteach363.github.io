@@ -20,7 +20,7 @@ This material will be updated on a weekly basis.
 
 Course videos will be updated during the semester.
 
-##### Week 13 - 14th April 2020 - part 1
+##### Week 14 - 14th April 2020 - part 1
 
   * extras - algorithms - NP-Complete
     * [NP-Complete problems - intro](https://youtu.be/Q9HjeFD62Uk?t=1988) - up to 36:02
