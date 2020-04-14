@@ -27,15 +27,23 @@ Course links will be updated during the semester.
 #### Articles &c.
 
 * [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
+* [Approximation algorithms - Wikipedia](https://en.wikipedia.org/wiki/Approximation_algorithm)
 * [Asymptotic computational complexity](https://en.wikipedia.org/wiki/Asymptotic_computational_complexity)
 * [Babylonian Mathematics](https://en.wikipedia.org/wiki/Babylonian_mathematics)
 * [Bellman-Ford algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
 * [Declarative programming](https://en.wikipedia.org/wiki/Declarative_programming)
 * [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 * [Graph - abstract data type](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
+* [How the Mathematical Conundrum Called the 'Knapsack Problem' Is All Around Us - Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/why-knapsack-problem-all-around-us-180974333/)
 * [Imperative programming](https://en.wikipedia.org/wiki/Imperative_programming)
+* [Knapsack problem - Wikipedia](https://en.wikipedia.org/wiki/Knapsack_problem)
+* [Networking - Set-covering problem - MIT](http://web.mit.edu/urban_or_book/www/book/chapter6/6.5.7.html)
+* [NP-complete - Wikipedia](https://en.wikipedia.org/wiki/NP-completeness)
+* [NP-complete - NIST](https://xlinux.nist.gov/dads/HTML/npcomplete.html)
+* [Set-covering problem - Wikipedia](https://en.wikipedia.org/wiki/Set_cover_problem)
 * [SHA algorithms - Wikipedia](https://en.wikipedia.org/wiki/Secure_Hash_Algorithms)
 * [The Stable Marriage Problem](http://www.cs.columbia.edu/~evs/intro/stable/writeup.html)
+* [Traveling Salesman - Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 #### Documentation &c.
 * [MDN - JavaScript - Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
@@ -47,7 +55,9 @@ Course links will be updated during the semester.
 * [MDN - JavaScript - Symbol.iterator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator)
 * [Python.org - Python - Array](https://docs.python.org/3/library/array.html)
 * [Python.org - Python patterns - implementing graphs](https://www.python.org/doc/essays/graphs/)
+* [Python.org - Python - Sets](https://docs.python.org/3/tutorial/datastructures.html#sets)
 * [W3Schools - Python - Array](https://www.w3schools.com/python/python_arrays.asp)
+* [W3Schools - Python - Sets](https://www.w3schools.com/python/python_sets.asp)
 
 #### Libraries and tools
 

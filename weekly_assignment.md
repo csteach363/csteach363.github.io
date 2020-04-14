@@ -20,6 +20,38 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
+##### Week 14 - 14th April 2020 - part 1
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - final report outline
+    * [Final Report Outline](/assets/docs/2020/comp363-final-report-outline-2020.pdf)
+  * extras - algorithms and data structures
+    * [Algorithms & Data Structures - Greedy Algorithms - Part 1](/assets/docs/extras/notes-alg-ds-greedy-algs-part1.pdf)
+  * extras - design
+    * [Design and Interface - Intro](/assets/docs/extras/design/design-interface-intro.pdf)
+  * extras - various
+    * [Git & Heroku Hosting](/assets/docs/extras/various/git-heroku-setup.pdf)
+* Review this week's [videos and material](/videos)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code examples,
+  * [GitHub - Source](https://github.com/csteach363/source/tree/master/week14)
+* Review the final report outline
+  * [Final Report Outline](/assets/docs/2020/comp363-final-report-outline-2020.pdf)
+* Please prepare your group's **project presentation** for Thursday 23rd April 2020 @ 10am
+  * as detailed in previous classes, this presentation should be an outline and demo of your final group project
+  * please consult the [coursework](/coursework) page for further details
+    * further details may also be found on pages 2 and 3 of this week's class notes
+  * each presentation should be approximately 10 minutes in length
+* Please choose your group's preferred *presentation* format using the following form
+  * [Final Presentation - Select Presentation Format](https://forms.gle/GkMLNCLLAEX7WtrU7)
+  * options include
+    * asynchronous - a recorded video of the group's Final project demo and presentation
+    * synchronous - a live, Zoom based presentation during regular scheduled class hours
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 13 - 9th April 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes

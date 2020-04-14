@@ -141,7 +141,7 @@ Assessment will include the following:
 * DEV week demo
   * due Tuesday 17th & Thursday 19th March 2020 @ 10am
 * final team demo
-  * due Tuesday 21st & Thursday 23rd April 2020 @ 10am
+  * due Thursday 23rd April 2020 @ 10am
 * final team report
   * due Thursday 30th April 2020
 

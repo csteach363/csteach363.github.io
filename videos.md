@@ -20,11 +20,27 @@ This material will be updated on a weekly basis.
 
 Course videos will be updated during the semester.
 
+##### Week 13 - 14th April 2020 - part 1
+
+  * extras - algorithms - NP-Complete
+    * [NP-Complete problems - intro](https://youtu.be/Q9HjeFD62Uk?t=1988) - up to 36:02
+
+<!-- 
+    * extras - algorithms - approximation
+      * Heuristics and Airports
+        * [part 1 - intro](https://youtu.be/Q9HjeFD62Uk?t=2542) - up to 45:16
+        * [part 2 - heuristic algorithm](https://youtu.be/Q9HjeFD62Uk?t=2716) - up to 47:10
+    
+    * [Traveling Salesman Problem](https://youtu.be/Q9HjeFD62Uk?t=2162) - up to 38:40
+    * extras - algorithms - Ongoing Use
+      * [Ongoing use and application](https://youtu.be/Q9HjeFD62Uk?t=3253) - up to end
+-->
+
 ##### Week 13 - 7th & 9th April 2020
 
   * extras - graphs
-    * [A* (A star) search algorithm](https://www.youtube.com/watch?v=ySN5Wnu88nE)
-    * [Bellman-Ford algorithm - simple example](https://www.youtube.com/watch?v=obWXjtg0L64) - up to 4:51
+    * [A* (A star) search algorithm](https://youtu.be/ySN5Wnu88nE)
+    * [Bellman-Ford algorithm - simple example](https://youtu.be/obWXjtg0L64) - up to 4:51
     * Dijkstra's algorithm
       * [part 1 - intro](https://youtu.be/GazC3A4OQTE) - up to 1:01
       * [part 2 - example outline](https://youtu.be/GazC3A4OQTE?t=62) - up to 3:57

@@ -20,6 +20,19 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
+##### Week 14 - 14th April 2020 - part 1
+
+  * course
+    * [Tuesday - part 1](/assets/docs/2020/comp363-week14-part1.pdf)
+  * extras - final report outline
+    * [Final Report Outline](/assets/docs/2020/comp363-final-report-outline-2020.pdf)
+  * extras - algorithms and data structures
+    * [Algorithms & Data Structures - Greedy Algorithms - Part 1](/assets/docs/extras/notes-alg-ds-greedy-algs-part1.pdf)
+  * extras - design
+    * [Design and Interface - Intro](/assets/docs/extras/design/design-interface-intro.pdf)
+  * extras - various
+    * [Git & Heroku Hosting](/assets/docs/extras/various/git-heroku-setup.pdf)
+
 ##### Week 13 - 7th & 9th April 2020
 
   * course

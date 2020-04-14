@@ -22,6 +22,20 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
+##### Week 14 - 14th & 16th April 2020
+
+* [Approximation algorithms - Wikipedia](https://en.wikipedia.org/wiki/Approximation_algorithm)
+* [How the Mathematical Conundrum Called the 'Knapsack Problem' Is All Around Us - Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/why-knapsack-problem-all-around-us-180974333/)
+* [Knapsack problem - Wikipedia](https://en.wikipedia.org/wiki/Knapsack_problem)
+* [Networking - Set-covering problem - MIT](http://web.mit.edu/urban_or_book/www/book/chapter6/6.5.7.html)
+* [NP-complete - Wikipedia](https://en.wikipedia.org/wiki/NP-completeness)
+* [NP-complete - NIST](https://xlinux.nist.gov/dads/HTML/npcomplete.html)
+* Python - Sets
+  * [Sets - Python.org](https://docs.python.org/3/tutorial/datastructures.html#sets)
+  * [Sets - W3Schools](https://www.w3schools.com/python/python_sets.asp)
+* [Set-covering problem - Wikipedia](https://en.wikipedia.org/wiki/Set_cover_problem)
+* [Traveling Salesman - Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+
 ##### Week 13 - 7th & 9th April 2020
 
 * [A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
