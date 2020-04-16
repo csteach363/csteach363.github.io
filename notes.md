@@ -20,14 +20,18 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
-##### Week 14 - 14th April 2020 - part 1
+##### Week 14 - 14th & 16th April 2020
 
   * course
     * [Tuesday - part 1](/assets/docs/2020/comp363-week14-part1.pdf)
+    * [Thursday - part 2](/assets/docs/2020/comp363-week14-part2.pdf)
   * extras - final report outline
     * [Final Report Outline](/assets/docs/2020/comp363-final-report-outline-2020.pdf)
   * extras - algorithms and data structures
     * [Algorithms & Data Structures - Greedy Algorithms - Part 1](/assets/docs/extras/notes-alg-ds-greedy-algs-part1.pdf)
+    * [Algorithms & Data Structures - Greedy Algorithms - Part 2](/assets/docs/extras/notes-alg-ds-greedy-algs-part2.pdf)
+    * [Algorithms & Data Structures - NP-Complete Problems](/assets/docs/extras/notes-alg-ds-np-complete-problems.pdf)
+    * [Algorithms & Data Structures - Sets](/assets/docs/extras/notes-alg-ds-sets.pdf)
   * extras - design
     * [Design and Interface - Intro](/assets/docs/extras/design/design-interface-intro.pdf)
   * extras - various

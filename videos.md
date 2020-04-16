@@ -20,21 +20,17 @@ This material will be updated on a weekly basis.
 
 Course videos will be updated during the semester.
 
-##### Week 14 - 14th April 2020 - part 1
+##### Week 14 - 14th & 16th April 2020
 
-  * extras - algorithms - NP-Complete
-    * [NP-Complete problems - intro](https://youtu.be/Q9HjeFD62Uk?t=1988) - up to 36:02
-
-<!-- 
-    * extras - algorithms - approximation
+  * extras - algorithms - approximation
       * Heuristics and Airports
         * [part 1 - intro](https://youtu.be/Q9HjeFD62Uk?t=2542) - up to 45:16
         * [part 2 - heuristic algorithm](https://youtu.be/Q9HjeFD62Uk?t=2716) - up to 47:10
-    
+  * extras - algorithms - NP-Complete
+    * [NP-Complete problems - intro](https://youtu.be/Q9HjeFD62Uk?t=1988) - up to 36:02
     * [Traveling Salesman Problem](https://youtu.be/Q9HjeFD62Uk?t=2162) - up to 38:40
-    * extras - algorithms - Ongoing Use
-      * [Ongoing use and application](https://youtu.be/Q9HjeFD62Uk?t=3253) - up to end
--->
+  * extras - algorithms - Ongoing Use
+    * [Ongoing use and application](https://youtu.be/Q9HjeFD62Uk?t=3253) - up to end
 
 ##### Week 13 - 7th & 9th April 2020
 
