@@ -20,6 +20,27 @@ summary: weekly assignment for COMP 363
 
 Course assignments will be updated during the semester.
 
+##### Week 15 - 23rd April 2020
+
+* Please ensure you've added your presentation files, notes, and video (where appropriate) &c. to the following board on Trello,
+  * [Week 15 - Presentation & Dev Files](https://trello.com/b/ISZqQSgF/week-15-presentation-dev-files)
+  * instructions are included as a list on the above board
+* Please complete your group's final project report
+  * suggested report length approximately 10 pages
+* Further details can be found in the following outline
+  * [Final Report Outline](/assets/docs/2020/comp363-final-report-outline-2020.pdf)
+* Final Report must be submitted by 11.15am on Thursday 30th April 2020
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP363 - Final Report)
+   * OR as an attachment to a private message on Slack
+* Please share with me a copy of your group's final code. This may include the following options,
+  * GitHub
+
+**NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP363 - Individual Final Report)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 14 - 16th April 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes

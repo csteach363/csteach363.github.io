@@ -20,6 +20,10 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
+##### Week 15 - 23rd April 2020
+
+  * N/A - Final presentations
+
 ##### Week 14 - 14th & 16th April 2020
 
   * course

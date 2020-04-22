@@ -22,6 +22,10 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
+##### Week 15 - 23rd April 2020
+
+* N/A - Final presentations
+
 ##### Week 14 - 14th & 16th April 2020
 
 * [Approximation algorithms - Wikipedia](https://en.wikipedia.org/wiki/Approximation_algorithm)
@@ -62,7 +66,7 @@ Course bibliography will be updated during the semester.
 
 ##### Week 11 - 24th March 2020
 
-* N/A - Presentations
+* N/A - DEV Week presentations
 
 ##### Week 10 - 17th & 19th March 2020
 
